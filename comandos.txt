@@ -1,0 +1,25 @@
+pwd     ;diretorio atual
+
+touch	;cria arquivos
+        ;ex: touchabc.txt
+
+ls	;listagem
+        ;ls
+        ; ls -a 
+        ; ls -l
+        ; ls -la
+        ; ls -lh
+
+cat     ;ler conteudo do arquivo
+        ;ex: cat file.c
+
+cd      ;navegação
+        ;ex: cd Documentos/Docs
+        
+cd ../  navega um acima
+       ; ex: cd Documentos/Docs      
+       ;      cd ../
+       ;  resultado: 
+       ;  Documentos
+
+  
